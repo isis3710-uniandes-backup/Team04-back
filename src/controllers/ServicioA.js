@@ -1,12 +1,12 @@
-import ServicioTModel from '../../models/ServicioT';
+import ServicioAModel from '../../models/ServicioA';
 import fs from 'fs';
 import util from 'util'
 
-const ServicioT = {
+const ServicioA = {
 
   create(req, res) {
-    const servicio = ServicioTModel.create(req.body);
-    fs.appendFileSync("./JSONS/serviciosTerrestres.json",util.inspect(servicio)+"\r\n",function(err){
+    const servicio = ServicioAModel.create(req.body);
+    fs.appendFileSync("./JSONS/serviciosAereos.json",util.inspect(servicio)+"\r\n",function(err){
         if(err){
             return console.log(err);
         }
@@ -15,8 +15,8 @@ const ServicioT = {
   },
 
   getAll(req, res) {
-    const servicio = ServicioTModel.findAll();
-    fs.appendFileSync("./JSONS/serviciosTerrestres.json",util.inspect(servicio)+"\r\n",function(err){
+    const servicio = ServicioAModel.findAll();
+    fs.appendFileSync("./JSONS/serviciosAereos.json",util.inspect(servicio)+"\r\n",function(err){
         if(err){
             return console.log(err);
         }
@@ -25,11 +25,11 @@ const ServicioT = {
   },
   
   getOne(req, res) {
-    const servicio= ServicioTModel.findOne(req.params.id);
+    const servicio= ServicioAModel.findOne(req.params.id);
     if (!servicio){
       return res.status(404).send({'message': 'servicio not found'});
     }
-    fs.appendFileSync("./JSONS/serviciosTerrestres.json",util.inspect(servicio)+"\r\n",function(err){
+    fs.appendFileSync("./JSONS/serviciosAereos.json",util.inspect(servicio)+"\r\n",function(err){
         if(err){
             return console.log(err);
         }
@@ -38,12 +38,12 @@ const ServicioT = {
   },
 
   update(req, res) {
-    const servicio= ServicioTModel.findOne(req.params.id);
+    const servicio= ServicioAModel.findOne(req.params.id);
     if (!servicio) {
       return res.status(404).send({'message': 'servicio not found'});
     }
-    const updatedservicio= ServicioTModel.update(req.params.id, req.body)
-    fs.appendFileSync("./JSONS/serviciosTerrestres.json",util.inspect(updatedservicio)+"\r\n",function(err){
+    const updatedservicio= ServicioAModel.update(req.params.id, req.body)
+    fs.appendFileSync("./JSONS/serviciosAereos.json",util.inspect(updatedservicio)+"\r\n",function(err){
         if(err){
             return console.log(err);
         }
@@ -52,19 +52,19 @@ const ServicioT = {
   },
 
   delete(req, res) {
-    const servicio= ServicioTModel.findOne(req.params.id);
+    const servicio= ServicioAModel.findOne(req.params.id);
     if (!servicio) {
       return res.status(404).send({'message': 'servicio not found'});
     }
-    fs.appendFileSync("./JSONS/serviciosTerrestres.json",util.inspect(servicio)+"\r\n",function(err){
+    fs.appendFileSync("./JSONS/serviciosAereos.json",util.inspect(servicio)+"\r\n",function(err){
         if(err){
             return console.log(err);
         }
     });
-    const ref = ServicioTModel.delete(req.params.id);
+    const ref = ServicioAModel.delete(req.params.id);
 
     return res.status(204).send(ref);
   }
 }
 
-export default ServicioT;
+export default ServicioA;
