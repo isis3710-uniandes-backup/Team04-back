@@ -1,6 +1,8 @@
 // server.js
 import express from 'express';
-import Reflection from './src/controllers/Reflection';
+import User from './src/controllers/User';
+import Activity from './src/controllers/Activity';
+import Location from './src/controllers/Location';
 
 
 
@@ -8,11 +10,11 @@ const app = express()
 
 app.use(express.json())
 
-app.post('/api/v1/reflections', Reflection.create);
-app.get('/api/v1/reflections', Reflection.getAll);
-app.get('/api/v1/reflections/:id', Reflection.getOne);
-app.put('/api/v1/reflections/:id', Reflection.update);
-app.delete('/api/v1/reflections/:id', Reflection.delete);
+app.post('/users', User.create);
+app.get('/users', User.getAll);
+app.get('/users/:id', User.getOne);
+app.put('/users/:id', User.update);
+app.delete('/users/:id', User.delete);
 
 app.get('/', (req, res) => {
   return res.status(200).send({'message': 'YAY! Congratulations! Your first endpoint is working'});
