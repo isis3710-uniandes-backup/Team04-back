@@ -5,7 +5,6 @@ import Empresa from './src/controllers/Empresa';
 import ServicioT from './src/controllers/ServicioT';
 import ServicioA from './src/controllers/ServicioA';
 import Location from './src/controllers/Location';
-import User from './src/controllers/User';
 
 
 
@@ -22,13 +21,17 @@ app.get('/users', User.getAll);
 app.get('/users/:id', User.getOne);
 app.put('/users/:id', User.update);
 app.delete('/users/:id', User.delete);
-
+/*
+--------------------------------LOCALIZACIONES--------------------------------------
+*/
 app.post('/locations', Location.create);
 app.get('/locations', Location.getAll);
 app.get('/locations/:nombre', Location.getOne);
 app.put('/locations/:nombre', Location.update);
 app.delete('/locations/:nombre', Location.delete);
-
+/*
+--------------------------------ACTIVIDADES--------------------------------------
+*/
 app.post('/locations/:nombre/activities', Location.createActivities);
 app.get('/locations/:nombre/activities', Location.getAllActivities);
 app.get('/locations/:nombre/activities/:nombreActivity', Location.getOneActivity);

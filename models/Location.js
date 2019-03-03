@@ -2,6 +2,7 @@ import moment from 'moment';
 import uuid from 'uuid';
 import Activity from './Activity';
 
+
 class Location{
     constructor(){
         this.locations=[];

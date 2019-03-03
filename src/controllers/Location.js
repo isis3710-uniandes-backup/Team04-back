@@ -1,15 +1,23 @@
 import LocationModel from '../../models/Location';
-
+var fs = require('fs');
+import util from 'util';
+import { TSVoidKeyword } from 'babel-types';
 const Location = {
     create(req, res){
+        
         if(!req.body.nombre && !req.body.descripcion && !req.body.ubicacion && !req.body.puntuacion){
             return res.status(400).send({'message': 'All fields are required'});
         }
-
         const location = LocationModel.create(req.body);
         if(location.error != undefined){
             return res.status(202).send({'message': 'A location with that name already exist'});
         }
+        var toWrite = LocationModel.findAll();
+        fs.writeFile("./JSON/locations.json", JSON.stringify(toWrite),function(err){
+            if(err){
+                return console.log(err);
+            }
+        });
         return res.status(201).send(location);
     },
     getAll(req, res){
@@ -29,6 +37,12 @@ const Location = {
             return res.status(404).send({'message': 'location not found'});
         }
         const updatedLocation = LocationModel.update(req.params.nombre, req.body);
+        var toWrite = LocationModel.findAll();
+        fs.writeFile("./JSON/locations.json", JSON.stringify(toWrite),function(err){
+            if(err){
+                return console.log(err);
+            }
+        });
         return res.status(200).send(updatedLocation);
     },
     delete(req, res){
@@ -38,6 +52,12 @@ const Location = {
         }
 
         const deletedLocation = LocationModel.delete(req.params.nombre);
+        var toWrite = LocationModel.findAll();
+        fs.writeFile("./JSON/locations.json", JSON.stringify(toWrite),function(err){
+            if(err){
+                return console.log(err);
+            }
+        });
         return res.status(204).send();
     },
     getAllActivities(req, res){
@@ -61,6 +81,12 @@ const Location = {
             }
            activities.push(LocationModel.createActivities(req.params.nombre, activ));
         }
+        var toWrite = LocationModel.findAll();
+        fs.writeFile("./JSON/locations.json", JSON.stringify(toWrite),function(err){
+            if(err){
+                return console.log(err);
+            }
+        });
         return res.status(200).send(activities);
     },
     updateActivity(req, res){
@@ -73,6 +99,12 @@ const Location = {
             return res.status(404).send({'message': 'activity not found'});
         }
         const updatedActivity = LocationModel.updateActivity(req.params.nombre, req.params.nombreActivity, req.body);
+        var toWrite = LocationModel.findAll();
+        fs.writeFile("./JSON/locations.json", JSON.stringify(toWrite)+ "\r\n",function(err){
+            if(err){
+                return console.log(err);
+            }
+        });
         return res.status(200).send(updatedActivity);
     }
 }
