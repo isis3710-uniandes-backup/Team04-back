@@ -1,4 +1,6 @@
 import UserModel from '../../models/User';
+import { setFlagsFromString } from 'v8';
+var fs = require('fs');
 const User = {
     /**
      * @param {object} req 
@@ -10,6 +12,12 @@ const User = {
           return res.status(400).send({'message': 'All fields are required'})
         }
         const user = UserModel.create(req.body);
+        var toWrite = UserModel.findAll();
+        fs.writeFile('./JSON/users.json',JSON.stringify(toWrite) + "\r\n",err=>{
+            if(err){
+                return console.log(err);
+            }
+        })
         return res.status(201).send(user);
       },
       /**
@@ -44,9 +52,15 @@ const User = {
     update(req, res) {
         const user = UserModel.findOne(req.params.id);
         if (!user) {
-        return res.status(404).send({'message': 'user not found'});
+            return res.status(404).send({'message': 'user not found'});
         }
         const updatedUser = UserModel.update(req.params.id, req.body)
+        var toWrite = UserModel.getAll();
+        fs.writeFile('./JSON/users.json',JSON.stringify(toWrite) + "\r\n",err=>{
+            if(err){
+                return console.log(err);
+            }
+        })
         return res.status(200).send(updatedUser);
     },
      /**
@@ -58,9 +72,15 @@ const User = {
     delete(req, res) {
         const user = UserModel.findOne(req.params.id);
         if (!user) {
-        return res.status(404).send({'message': 'user not found'});
+            return res.status(404).send({'message': 'user not found'});
         }
-        const deletedUser = user.delete(req.params.id);
+        const deletedUser = UserModel.delete(req.params.id);
+        var toWrite = UserModel.getAll();
+        fs.writeFile('./JSON/users.json',JSON.stringify(toWrite) + "\r\n",err=>{
+            if(err){
+                return console.log(err);
+            }
+        })
         return res.status(204).send({'message': 'user deleted'});
     }
 }
