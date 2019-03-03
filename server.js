@@ -83,6 +83,17 @@ app.get('/hostales/:id', Hostal.getOne);
 app.put('/hostales/:id', Hostal.update);
 app.delete('/hostales/:id', Hostal.delete);
 
+/*
+--------------------------------VIAJES--------------------------------------
+*/
+app.post('/viajes', Viaje.create);
+app.get('/viajes', Viaje.getAll);
+app.get('/viajes/:id', Viaje.getOne);
+app.put('/viajes/:id', Viaje.update);
+app.delete('/viajes/:id', Viaje.delete);
+
+
+
 
 app.get('/', (req, res) => {
   return res.status(200).send({'message': 'Viajes back Team-04'});
