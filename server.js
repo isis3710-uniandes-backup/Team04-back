@@ -6,6 +6,7 @@ import ServicioT from './src/controllers/ServicioT';
 import ServicioA from './src/controllers/ServicioA';
 import ServicioM from './src/controllers/ServicioM';
 import Location from './src/controllers/Location';
+import Hostal from './src/controllers/Hostal';
 
 
 
@@ -72,6 +73,15 @@ app.get('/serviciosm', ServicioM.getAll);
 app.get('/serviciosm/:id', ServicioM.getOne);
 app.put('/serviciosm/:id', ServicioM.update);
 app.delete('/serviciosm/:id', ServicioM.delete);
+
+/*
+--------------------------------HOSTALES--------------------------------------
+*/
+app.post('/hostales', Hostal.create);
+app.get('/hostales', Hostal.getAll);
+app.get('/hostales/:id', Hostal.getOne);
+app.put('/hostales/:id', Hostal.update);
+app.delete('/hostales/:id', Hostal.delete);
 
 
 app.get('/', (req, res) => {
