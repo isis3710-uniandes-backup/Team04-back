@@ -6,7 +6,6 @@ class Empresa {
     this.empresas = [];
   }
   
-
   create(data) {
     const newEmpresa = {
       id: uuid.v4(),

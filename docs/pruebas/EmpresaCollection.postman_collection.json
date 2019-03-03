@@ -1,0 +1,141 @@
+{
+	"info": {
+		"_postman_id": "a840161c-39b8-437f-8b73-6f9952bb1fd5",
+		"name": "EmpresaCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "POST Empresa",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"nombre\":  \"empresa1\",\n\t\"serviciosT\": \"bogota - medellin\",\n\t\"serviciosM\": \"colombia - jamaica\",\n\t\"serviciosA\": \"bogota - san andres\",\n\t\"viajes\": [\"vuelo1\",\"vuelo2\"]\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3000/empresas",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"empresas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET all Empresas",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:3000/empresas",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"empresas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET Empresa By ID",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:3000/empresas/78f47fc1-add2-4c74-a917-93711834d43b",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"empresas",
+						"78f47fc1-add2-4c74-a917-93711834d43b"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PUT Empresa",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"nombre\":  \"empresa1 Updated\",\n\t\"serviciosT\": \"bogota - medellin\",\n\t\"serviciosM\": \"colombia - jamaica\",\n\t\"serviciosA\": \"bogota - san andres\",\n\t\"viajes\": [\"vuelo1\",\"vuelo2\"]\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3000/empresas/9c38ecf7-ff5f-4884-a886-b87b7d7f95e9",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"empresas",
+						"9c38ecf7-ff5f-4884-a886-b87b7d7f95e9"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE Empresa",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:3000/empresas/9c38ecf7-ff5f-4884-a886-b87b7d7f95e9",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"empresas",
+						"9c38ecf7-ff5f-4884-a886-b87b7d7f95e9"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

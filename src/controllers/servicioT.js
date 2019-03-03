@@ -6,7 +6,7 @@ const ServicioT = {
 
   create(req, res) {
     const servicio = ServicioTModel.create(req.body);
-    fs.appendFileSync("./JSONS/serviciosTerrestres.json",util.inspect(servicio)+"\r\n",function(err){
+    fs.appendFileSync("./JSON/serviciosTerrestres.json",util.inspect(servicio)+"\r\n",function(err){
         if(err){
             return console.log(err);
         }
@@ -16,7 +16,7 @@ const ServicioT = {
 
   getAll(req, res) {
     const servicio = ServicioTModel.findAll();
-    fs.appendFileSync("./JSONS/serviciosTerrestres.json",util.inspect(servicio)+"\r\n",function(err){
+    fs.appendFileSync("./JSON/serviciosTerrestres.json",util.inspect(servicio)+"\r\n",function(err){
         if(err){
             return console.log(err);
         }
@@ -29,7 +29,7 @@ const ServicioT = {
     if (!servicio){
       return res.status(404).send({'message': 'servicio not found'});
     }
-    fs.appendFileSync("./JSONS/serviciosTerrestres.json",util.inspect(servicio)+"\r\n",function(err){
+    fs.appendFileSync("./JSON/serviciosTerrestres.json",util.inspect(servicio)+"\r\n",function(err){
         if(err){
             return console.log(err);
         }
@@ -43,7 +43,7 @@ const ServicioT = {
       return res.status(404).send({'message': 'servicio not found'});
     }
     const updatedservicio= ServicioTModel.update(req.params.id, req.body)
-    fs.appendFileSync("./JSONS/serviciosTerrestres.json",util.inspect(updatedservicio)+"\r\n",function(err){
+    fs.appendFileSync("./JSON/serviciosTerrestres.json",util.inspect(updatedservicio)+"\r\n",function(err){
         if(err){
             return console.log(err);
         }
@@ -56,7 +56,7 @@ const ServicioT = {
     if (!servicio) {
       return res.status(404).send({'message': 'servicio not found'});
     }
-    fs.appendFileSync("./JSONS/serviciosTerrestres.json",util.inspect(servicio)+"\r\n",function(err){
+    fs.appendFileSync("./JSON/serviciosTerrestres.json",util.inspect(servicio)+"\r\n",function(err){
         if(err){
             return console.log(err);
         }
