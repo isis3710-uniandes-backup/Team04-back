@@ -6,7 +6,7 @@ const ServicioA = {
 
   create(req, res) {
     const servicio = ServicioAModel.create(req.body);
-    fs.appendFileSync("./JSONS/serviciosAereos.json",util.inspect(servicio)+"\r\n",function(err){
+    fs.appendFileSync("./JSON/serviciosAereos.json",util.inspect(servicio)+"\r\n",function(err){
         if(err){
             return console.log(err);
         }
@@ -16,7 +16,7 @@ const ServicioA = {
 
   getAll(req, res) {
     const servicio = ServicioAModel.findAll();
-    fs.appendFileSync("./JSONS/serviciosAereos.json",util.inspect(servicio)+"\r\n",function(err){
+    fs.appendFileSync("./JSON/serviciosAereos.json",util.inspect(servicio)+"\r\n",function(err){
         if(err){
             return console.log(err);
         }
@@ -29,7 +29,7 @@ const ServicioA = {
     if (!servicio){
       return res.status(404).send({'message': 'servicio not found'});
     }
-    fs.appendFileSync("./JSONS/serviciosAereos.json",util.inspect(servicio)+"\r\n",function(err){
+    fs.appendFileSync("./JSON/serviciosAereos.json",util.inspect(servicio)+"\r\n",function(err){
         if(err){
             return console.log(err);
         }
@@ -43,7 +43,7 @@ const ServicioA = {
       return res.status(404).send({'message': 'servicio not found'});
     }
     const updatedservicio= ServicioAModel.update(req.params.id, req.body)
-    fs.appendFileSync("./JSONS/serviciosAereos.json",util.inspect(updatedservicio)+"\r\n",function(err){
+    fs.appendFileSync("./JSON/serviciosAereos.json",util.inspect(updatedservicio)+"\r\n",function(err){
         if(err){
             return console.log(err);
         }
@@ -56,7 +56,7 @@ const ServicioA = {
     if (!servicio) {
       return res.status(404).send({'message': 'servicio not found'});
     }
-    fs.appendFileSync("./JSONS/serviciosAereos.json",util.inspect(servicio)+"\r\n",function(err){
+    fs.appendFileSync("./JSON/serviciosAereos.json",util.inspect(servicio)+"\r\n",function(err){
         if(err){
             return console.log(err);
         }

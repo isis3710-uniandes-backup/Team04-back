@@ -6,7 +6,7 @@ const Empresa = {
 
   create(req, res) {
     const empresa = EmpresaModel.create(req.body);
-    fs.appendFileSync("./JSONS/empresas.json", util.inspect(empresa) + "\r\n", function (err) {
+    fs.appendFileSync("./JSON/empresas.json", util.inspect(empresa) + "\r\n", function (err) {
       if (err) {
         return console.log(err);
       }
@@ -16,7 +16,7 @@ const Empresa = {
 
   getAll(req, res) {
     const empresas = EmpresaModel.findAll();
-    fs.appendFileSync("./JSONS/empresas.json", util.inspect(empresas) + "\r\n", function (err) {
+    fs.appendFileSync("./JSON/empresas.json", util.inspect(empresas) + "\r\n", function (err) {
       if (err) {
         return console.log(err);
       }
@@ -29,7 +29,7 @@ const Empresa = {
     if (!empresa) {
       return res.status(404).send({ 'message': 'empresa not found' });
     }
-    fs.appendFileSync("./JSONS/empresas.json", util.inspect(empresa) + "\r\n", function (err) {
+    fs.appendFileSync("./JSON/empresas.json", util.inspect(empresa) + "\r\n", function (err) {
       if (err) {
         return console.log(err);
       }
@@ -43,7 +43,7 @@ const Empresa = {
       return res.status(404).send({ 'message': 'empresa not found' });
     }
     const updatedEmpresa = EmpresaModel.update(req.params.id, req.body)
-    fs.appendFileSync("./JSONS/empresas.json", util.inspect(updatedEmpresa) + "\r\n", function (err) {
+    fs.appendFileSync("./JSON/empresas.json", util.inspect(updatedEmpresa) + "\r\n", function (err) {
       if (err) {
         return console.log(err);
       }
@@ -56,7 +56,7 @@ const Empresa = {
     if (!empresa) {
       return res.status(404).send({ 'message': 'empresa not found' });
     }
-    fs.appendFileSync("./JSONS/empresas.json", util.inspect(empresa) + "\r\n", function (err) {
+    fs.appendFileSync("./JSON/empresas.json", util.inspect(empresa) + "\r\n", function (err) {
       if (err) {
         return console.log(err);
       }

@@ -1,0 +1,117 @@
+{
+	"info": {
+		"_postman_id": "24ca6935-bfa6-424a-b5c3-e2e8bdbecfb4",
+		"name": "ServiciosTerrestresCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "POST Servicio Terrestre",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"nombreEmpresa\":\"empresa1\",\n\t\"rutas\":[\"autopista norte\",\"autopista occidental\"],\n\t\"origen\":\"bogotá\",\n\t\"destino\":\"medellín\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3000/serviciost",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"serviciost"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET all Servicios Terrestres",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:3000/serviciost",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"serviciost"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PUT servicio terrestre",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"nombreEmpresa\":\"empresa1 Updated\",\n\t\"rutas\":[\"autopista norte\",\"autopista occidental\"],\n\t\"origen\":\"bogotá\",\n\t\"destino\":\"medellín\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3000/serviciost/a3b86ebe-f7d6-4c1a-82b9-20249ee303ea",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"serviciost",
+						"a3b86ebe-f7d6-4c1a-82b9-20249ee303ea"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE Servicio Terrestre",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:3000/serviciost/a3b86ebe-f7d6-4c1a-82b9-20249ee303ea",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"serviciost",
+						"a3b86ebe-f7d6-4c1a-82b9-20249ee303ea"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
