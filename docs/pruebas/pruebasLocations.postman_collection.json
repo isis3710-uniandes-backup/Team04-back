@@ -1,0 +1,136 @@
+{
+	"info": {
+		"_postman_id": "ccea519a-8408-4a93-80b1-d08665242c03",
+		"name": "pruebasLocations",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "postLocation",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"nombre\": \"Cartagena\",\n\t\"descripcion\":\"Capital de Colombia\",\n\t\"ubicacion\": \"Colombia\",\n\t\"puntuacion\" : 1\n}"
+				},
+				"url": {
+					"raw": "localhost:3000/locations",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"locations"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getAllLocations",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:3000/locations",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"locations"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getOneLocation",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:3000/locations/Cartagena",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"locations",
+						"Cartagena"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "updateLocation",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"puntuacion\": 0\n\t\n}"
+				},
+				"url": {
+					"raw": "localhost:3000/locations/Cartagena",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"locations",
+						"Cartagena"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "deleteLocation",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:3000/locations/Cartagena",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"locations",
+						"Cartagena"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

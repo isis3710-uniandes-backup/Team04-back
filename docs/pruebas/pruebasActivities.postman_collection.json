@@ -1,0 +1,123 @@
+{
+	"info": {
+		"_postman_id": "d9d99d1e-7be4-489b-8825-33b18805ff02",
+		"name": "pruebasActivities",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "getAllActivities",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:3000/locations/Cartagena/activities",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"locations",
+						"Cartagena",
+						"activities"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getOneActivity",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:3000/locations/Cartagena/activities/Centro Historico",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"locations",
+						"Cartagena",
+						"activities",
+						"Centro Historico"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "postActivity",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "[{\n    \"nombre\": \"Centro Historico\",\n    \"descripcion\": \"El centro de cartagena bien pinche bello\",\n    \"fechaInicio\": \"Unlimited\",\n    \"fechaFin\": \"Unlimited\",\n    \"puntuacion\": 5\n}]"
+				},
+				"url": {
+					"raw": "http://localhost:3000/locations/Cartagena/activities",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"locations",
+						"Cartagena",
+						"activities"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "updateActivity",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"nombre\": \"Centro\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3000/locations/Cartagena/activities/Centro Historico",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"locations",
+						"Cartagena",
+						"activities",
+						"Centro Historico"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

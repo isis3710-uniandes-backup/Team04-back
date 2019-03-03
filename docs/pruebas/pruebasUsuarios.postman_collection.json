@@ -1,0 +1,115 @@
+{
+	"info": {
+		"_postman_id": "5073c315-578b-4619-906e-cca6a463b611",
+		"name": "pruebasUsuarios",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "postNewUser",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"nombres\": \"Michael Stiven\",\n\t\"apellidos\": \"Osorio Riaño\",\n\t\"nacionalidad\": \"Colombiano\",\n\t\"correo\": \"sda@asd.com\",\n\t\"fechaNacimiento\": \"1998\"\n}"
+				},
+				"url": {
+					"raw": "localhost:3000/users",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "updateUser",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"nombres\": \"Michael\"\n}"
+				},
+				"url": {
+					"raw": "localhost:3000/users/9d211a07-9767-4dec-8fbe-3889e1bd0ba5",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"users",
+						"9d211a07-9767-4dec-8fbe-3889e1bd0ba5"
+					]
+				},
+				"description": "Es necesario cambiar la ruta cada vez, para que coincida con el id del usuario."
+			},
+			"response": []
+		},
+		{
+			"name": "getAllUsers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:3000/users",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getOneUser",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:3000/users/d211a07-9767-4dec-8fbe-3889e1bd0ba5",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"users",
+						"d211a07-9767-4dec-8fbe-3889e1bd0ba5"
+					]
+				},
+				"description": "Es necesario cambiar la ruta para que coincida con el id del usuario"
+			},
+			"response": []
+		}
+	]
+}
