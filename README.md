@@ -1,5 +1,7 @@
 # Team04-back
-Here is the Back-end of Team 04 web development project
+Here is the Back-end of Team 04 web development project <br/>
+
+This app will manage travels between multiple destinations, considering air, sea and land routes depending on user's choice. We will calculate the best route, the best lodging and the best activities to do in every destination of the whole travel.
 
 ## Installation
 
