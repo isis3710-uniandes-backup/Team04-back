@@ -44,7 +44,7 @@ const User = {
     update(req, res) {
         const user = UserModel.findOne(req.params.id);
         if (!user) {
-        return res.status(404).send({'message': 'user not found'});
+            return res.status(404).send({'message': 'user not found'});
         }
         const updatedUser = UserModel.update(req.params.id, req.body)
         return res.status(200).send(updatedUser);
@@ -58,9 +58,9 @@ const User = {
     delete(req, res) {
         const user = UserModel.findOne(req.params.id);
         if (!user) {
-        return res.status(404).send({'message': 'user not found'});
+            return res.status(404).send({'message': 'user not found'});
         }
-        const deletedUser = user.delete(req.params.id);
+        const deletedUser = UserModel.delete(req.params.id);
         return res.status(204).send({'message': 'user deleted'});
     }
 }

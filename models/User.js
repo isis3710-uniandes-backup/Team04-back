@@ -49,10 +49,10 @@ class User{
     const user = this.findOne(id);
     const index = this.users.indexOf(user);
     this.users[index].nombres = data['nombres'] || user.nombres;
-    this.users[index].apellidos = data['apellidos'] || reflection.lowPoint;
+    this.users[index].apellidos = data['apellidos'] || user.apellidos;
     this.users[index].nacionalidad = data['nacionalidad'] || user.nacionalidad;
-    this.user[index].correo = data['correo'] || user.correo;
-    this.user[index].fechaNacimiento = data['fechaNacimiento'] || user.fechaNacimiento;
+    this.users[index].correo = data['correo'] || user.correo;
+    this.users[index].fechaNacimiento = data['fechaNacimiento'] || user.fechaNacimiento;
     return this.users[index];
   }
 
