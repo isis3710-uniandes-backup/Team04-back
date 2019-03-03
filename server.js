@@ -4,6 +4,7 @@ import User from './src/controllers/User';
 import Empresa from './src/controllers/Empresa';
 import ServicioT from './src/controllers/ServicioT';
 import ServicioA from './src/controllers/ServicioA';
+import ServicioM from './src/controllers/ServicioM';
 import Location from './src/controllers/Location';
 
 
@@ -62,6 +63,15 @@ app.get('/serviciosa', ServicioA.getAll);
 app.get('/serviciosa/:id', ServicioA.getOne);
 app.put('/serviciosa/:id', ServicioA.update);
 app.delete('/serviciosa/:id', ServicioA.delete);
+
+/*
+--------------------------------SERVICIOS MARITIMOS--------------------------------------
+*/
+app.post('/serviciosm', ServicioM.create);
+app.get('/serviciosm', ServicioM.getAll);
+app.get('/serviciosm/:id', ServicioM.getOne);
+app.put('/serviciosm/:id', ServicioM.update);
+app.delete('/serviciosm/:id', ServicioM.delete);
 
 
 app.get('/', (req, res) => {
