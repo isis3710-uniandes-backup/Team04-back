@@ -31,3 +31,4 @@ After every request on every resource, the response data is saved into a json fi
 
 ## Authors
 Yesid Bejarano Camacho - 201511498
+Michael Stiven Osorio Riaño - 201616273
