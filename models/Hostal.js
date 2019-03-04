@@ -3,7 +3,7 @@ import uuid from 'uuid';
 class Hostal {
     constructor(){
         this.hostals =[];
-    };
+    }
 
     create(data){
         if(this.findOne(data.nombre)){
@@ -21,16 +21,16 @@ class Hostal {
             puntuacion: data.puntuacion || ''
         };
         this.hostals.push(newHostal);
-        return newHostal;
-    };
+        return newHostal
+    }
 
     findOne(nombre){
         return this.hostals.find(hostal => hostal.nombre === nombre);
-    };
+    }
 
     findAll(){
         return this.hostals;
-    };
+    }
 
     update(nombre, data){
         const hostal = this.findOne(nombre);
@@ -49,13 +49,13 @@ class Hostal {
         if(data['puntuacion'] === 0){
             this.hostals[index].puntuacion = 0;
         }
-    };
+    }
 
     delete(nombre){
         const hostal = this.findOne(nombre);
         const index = this.hostals.indexOf(hostal);
         this.hostals.splice(index,1);
         return {};
-    };
+    }
 }
-export default Hostal;
+export default new Hostal();

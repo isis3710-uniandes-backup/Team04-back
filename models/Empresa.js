@@ -14,7 +14,7 @@ class Empresa {
       serviciosM: data.serviciosM || '',
       serviciosA: data.serviciosA || '',
       viajes: data.viajes || ''
-    };
+    };      
     this.empresas.push(newEmpresa);
     return newEmpresa
   }
