@@ -1,0 +1,120 @@
+{
+	"info": {
+		"_postman_id": "db1c6575-7fa6-40df-b3c4-f21a2a2c8321",
+		"name": "ServiciosMaritimosCollection",
+		"description": "Pruebas para los servicios maritimos GET, POST, PUT, DELETE",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "POST Servicio Maritimo",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"nombreEmpresa\":\"empresa1\",\n\t\"rutas\":[\"muelle cartagena\",\"muelle kingston\"],\n\t\"origen\":\"cartagena\",\n\t\"destino\":\"kingston\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3000/serviciosm",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"serviciosm"
+					]
+				},
+				"description": "POST para el servicio de Servicios Maritimos"
+			},
+			"response": []
+		},
+		{
+			"name": "GET all Servicios Maritimos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:3000/serviciosm",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"serviciosm"
+					]
+				},
+				"description": "llama la lista de todos los servicios maritimos"
+			},
+			"response": []
+		},
+		{
+			"name": "PUT servicio maritimo",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"nombreEmpresa\":\"empresa1 Update\",\n\t\"rutas\":[\"muelle cartagena\",\"muelle kingston\"],\n\t\"origen\":\"cartagena\",\n\t\"destino\":\"kingston\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3000/serviciosm/565fadf2-1fa7-42b4-b7f5-8d1a704d572d",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"serviciosm",
+						"565fadf2-1fa7-42b4-b7f5-8d1a704d572d"
+					]
+				},
+				"description": "modifica un servicio maritimo"
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE Servicio Maritimo",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:3000/serviciosm/565fadf2-1fa7-42b4-b7f5-8d1a704d572d",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"serviciosm",
+						"565fadf2-1fa7-42b4-b7f5-8d1a704d572d"
+					]
+				},
+				"description": "elimina un elemento del servicio maritimo"
+			},
+			"response": []
+		}
+	]
+}

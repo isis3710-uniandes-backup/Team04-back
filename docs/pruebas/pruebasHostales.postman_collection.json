@@ -1,0 +1,122 @@
+{
+	"info": {
+		"_postman_id": "b24a0a40-cf88-424c-9cf5-03221548be7d",
+		"name": "pruebasHostales",
+		"description": "pruebas para servicios REST de los hostales",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "POST hostales",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"nombre\": \"Casa Hogar Hostales\",\n    \"descripcion\": \"El centro de cartagena bien pinche bello\",\n    \"precio\": \"100000\",\n    \"telefono\": \"3002221234\",\n    \"sitioWeb\": \"casahogar.com\",\n    \"ciudad\": \"Cartagena\",\n    \"direccion\": \"Calle 1 #10-22\",\n    \"puntuacion\": 5\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3000/hostales/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"hostales",
+						""
+					]
+				},
+				"description": "realiza post para un hostal"
+			},
+			"response": []
+		},
+		{
+			"name": "GET all hostales",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:3000/hostales/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"hostales",
+						""
+					]
+				},
+				"description": "devuelve la lista de hostales existentes"
+			},
+			"response": []
+		},
+		{
+			"name": "PUT hostales",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"nombre\": \"Casa Hogar Hostales\",\n    \"descripcion\": \"El centro de cartagena bien pinche bello\",\n    \"precio\": \"100000\",\n    \"telefono\": \"3002221234\",\n    \"sitioWeb\": \"casahogar.com\",\n    \"ciudad\": \"Cartagena\",\n    \"direccion\": \"Calle 1 #10-22\",\n    \"puntuacion\": 5\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3000/hostales/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"hostales",
+						""
+					]
+				},
+				"description": "modifica un hostal existente"
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE hostales",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:3000/hostales/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"hostales",
+						""
+					]
+				},
+				"description": "elimina un elemento de los hostales"
+			},
+			"response": []
+		}
+	]
+}

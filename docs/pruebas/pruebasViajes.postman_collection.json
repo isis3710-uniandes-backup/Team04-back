@@ -1,0 +1,169 @@
+{
+	"info": {
+		"_postman_id": "82746e30-390a-4b6e-bb57-1c6db8bed920",
+		"name": "pruebasViajes",
+		"description": "pruebas de servicios para los Viajes",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET all viajes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:3000/viajes/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"viajes",
+						""
+					]
+				},
+				"description": "recupera la lista de todos los viajes disponibles"
+			},
+			"response": []
+		},
+		{
+			"name": "POST viajes",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"nombre\": \"Cartagena - Kingston\",\n\t\"empresa\": \"empresa1\",\n\t\"location\": \"Cartagena\",\n\t\"fechaInicio\": \"Unlimited\",\n\t\"fechaFin\": \"Unlimited\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3000/viajes/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"viajes",
+						""
+					]
+				},
+				"description": "publica un viaje"
+			},
+			"response": []
+		},
+		{
+			"name": "GET one viaje",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:3000/viajes/213d7e7c-d6c3-4d50-8988-d4480cb8bf73",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"viajes",
+						"213d7e7c-d6c3-4d50-8988-d4480cb8bf73"
+					]
+				},
+				"description": "adquiere un viaje agregado"
+			},
+			"response": []
+		},
+		{
+			"name": "PUT viajes",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"nombre\": \"Cartagena - Kingston update1\",\n\t\"empresa\": \"empresa1\",\n\t\"location\": \"Cartagena\",\n\t\"fechaInicio\": \"Unlimited\",\n\t\"fechaFin\": \"Unlimited\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3000/viajes/213d7e7c-d6c3-4d50-8988-d4480cb8bf73",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"viajes",
+						"213d7e7c-d6c3-4d50-8988-d4480cb8bf73"
+					]
+				},
+				"description": "modifica un viaje existente"
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE viajes",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:3000/viajes/213d7e7c-d6c3-4d50-8988-d4480cb8bf73",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"viajes",
+						"213d7e7c-d6c3-4d50-8988-d4480cb8bf73"
+					]
+				},
+				"description": "elimina un viaje"
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "405ab438-2487-4bf9-a985-0a689a29e831",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "2cbac8b8-435f-4667-ae8b-728192a7fbcc",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

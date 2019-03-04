@@ -4,7 +4,10 @@ import User from './src/controllers/User';
 import Empresa from './src/controllers/Empresa';
 import ServicioT from './src/controllers/ServicioT';
 import ServicioA from './src/controllers/ServicioA';
+import ServicioM from './src/controllers/ServicioM';
 import Location from './src/controllers/Location';
+import Hostal from './src/controllers/Hostal';
+import Viaje from './src/controllers/Viaje';
 
 
 
@@ -62,6 +65,35 @@ app.get('/serviciosa', ServicioA.getAll);
 app.get('/serviciosa/:id', ServicioA.getOne);
 app.put('/serviciosa/:id', ServicioA.update);
 app.delete('/serviciosa/:id', ServicioA.delete);
+
+/*
+--------------------------------SERVICIOS MARITIMOS--------------------------------------
+*/
+app.post('/serviciosm', ServicioM.create);
+app.get('/serviciosm', ServicioM.getAll);
+app.get('/serviciosm/:id', ServicioM.getOne);
+app.put('/serviciosm/:id', ServicioM.update);
+app.delete('/serviciosm/:id', ServicioM.delete);
+
+/*
+--------------------------------HOSTALES--------------------------------------
+*/
+app.post('/hostales', Hostal.create);
+app.get('/hostales', Hostal.getAll);
+app.get('/hostales/:id', Hostal.getOne);
+app.put('/hostales/:id', Hostal.update);
+app.delete('/hostales/:id', Hostal.delete);
+
+/*
+--------------------------------VIAJES--------------------------------------
+*/
+app.post('/viajes', Viaje.create);
+app.get('/viajes', Viaje.getAll);
+app.get('/viajes/:id', Viaje.getOne);
+app.put('/viajes/:id', Viaje.update);
+app.delete('/viajes/:id', Viaje.delete);
+
+
 
 
 app.get('/', (req, res) => {
