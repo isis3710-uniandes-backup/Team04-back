@@ -1,6 +1,6 @@
 import ServicioMModel from '../../models/ServicioM';
 import fs from 'fs';
-import util from 'util'
+import util from 'util';
 
 const ServicioM = {
 

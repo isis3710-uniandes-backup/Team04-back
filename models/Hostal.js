@@ -6,7 +6,6 @@ class Hostal {
     }
 
     create(data){
-
         if(this.findOne(data.nombre)){
            return {"error": "An Hostel with that name already exist"} ;
         }
@@ -59,4 +58,4 @@ class Hostal {
         return {};
     }
 }
-export default hostal;
+export default Hostal;

@@ -1,0 +1,25 @@
+{ id: '565fadf2-1fa7-42b4-b7f5-8d1a704d572d',
+  nombreEmpresa: 'empresa1',
+  rutas: [ 'muelle cartagena', 'muelle kingston' ],
+  origen: 'cartagena',
+  destino: 'kingston' }
+[ { id: '565fadf2-1fa7-42b4-b7f5-8d1a704d572d',
+    nombreEmpresa: 'empresa1',
+    rutas: [ 'muelle cartagena', 'muelle kingston' ],
+    origen: 'cartagena',
+    destino: 'kingston' } ]
+{ id: '565fadf2-1fa7-42b4-b7f5-8d1a704d572d',
+  nombreEmpresa: 'empresa1',
+  rutas: [ 'muelle cartagena', 'muelle kingston' ],
+  origen: 'cartagena',
+  destino: 'kingston' }
+{ id: '565fadf2-1fa7-42b4-b7f5-8d1a704d572d',
+  nombreEmpresa: 'empresa1 Update',
+  rutas: [ 'muelle cartagena', 'muelle kingston' ],
+  origen: 'cartagena',
+  destino: 'kingston' }
+{ id: '565fadf2-1fa7-42b4-b7f5-8d1a704d572d',
+  nombreEmpresa: 'empresa1 Update',
+  rutas: [ 'muelle cartagena', 'muelle kingston' ],
+  origen: 'cartagena',
+  destino: 'kingston' }

@@ -7,6 +7,7 @@ import ServicioA from './src/controllers/ServicioA';
 import ServicioM from './src/controllers/ServicioM';
 import Location from './src/controllers/Location';
 import Hostal from './src/controllers/Hostal';
+import Viaje from './src/controllers/Viaje';
 
 
 

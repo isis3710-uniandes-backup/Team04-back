@@ -1,0 +1,31 @@
+[]
+{ id: '8977f171-f241-4089-925c-51318058975c',
+  nombre: 'Cartagena - Kingston',
+  empresa: 'empresa1',
+  location: '',
+  fechaInicio: 'Unlimited',
+  fechaFin: 'Unlimited' }
+{ id: '213d7e7c-d6c3-4d50-8988-d4480cb8bf73',
+  nombre: 'Cartagena - Kingston',
+  empresa: 'empresa1',
+  location: '',
+  fechaInicio: 'Unlimited',
+  fechaFin: 'Unlimited' }
+{ id: '213d7e7c-d6c3-4d50-8988-d4480cb8bf73',
+  nombre: 'Cartagena - Kingston update1',
+  empresa: 'empresa1',
+  location: 'Cartagena',
+  fechaInicio: 'Unlimited',
+  fechaFin: 'Unlimited' }
+{ id: '213d7e7c-d6c3-4d50-8988-d4480cb8bf73',
+  nombre: 'Cartagena - Kingston update1',
+  empresa: 'empresa1',
+  location: 'Cartagena',
+  fechaInicio: 'Unlimited',
+  fechaFin: 'Unlimited' }
+{ id: 'f1510515-d3e2-4e07-bf1d-72c6ec249304',
+  nombre: 'Cartagena - Kingston',
+  empresa: 'empresa1',
+  location: '',
+  fechaInicio: 'Unlimited',
+  fechaFin: 'Unlimited' }
