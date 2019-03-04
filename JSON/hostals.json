@@ -1,0 +1,9 @@
+{ idHostal: 'bd26682f-9c39-4098-a593-07040832348b',
+  nombre: '',
+  descripcion: '',
+  precio: '',
+  telefono: '',
+  sitioWeb: '',
+  ciudad: '',
+  direccion: '',
+  puntuacion: '' }
