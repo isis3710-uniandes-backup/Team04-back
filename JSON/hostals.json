@@ -7,3 +7,12 @@
   ciudad: '',
   direccion: '',
   puntuacion: '' }
+{ idHostal: '01b6256c-1be9-45b2-b549-2b2bee04e0a4',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5 }
