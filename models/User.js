@@ -14,6 +14,8 @@ class User{
    create(data){
        const newUser = {
            id: uuid.v4(),
+           usuario: data.username || ' ',
+           contrasenia: data.password || ' ',
            nombres: data.nombres ||' ',
            apellidos: data.apellidos || ' ',
            nacionalidad: data.nacionalidad ||' ',
