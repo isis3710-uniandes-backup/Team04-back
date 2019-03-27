@@ -63,6 +63,14 @@ const Hostal = {
     });
     const ref = HostalModel.delete(req.params.id);
     return res.status(204).send(ref);
+  },
+
+  getAllByCity(req, res){
+    const hostales = HostalModel.findAllByCity(req.params.city);
+    if(!hostales){
+      return res.status(404).send({'message': 'hostales no found'});
+    }
+    return res.status(200).send(hostales);
   }
 }
 

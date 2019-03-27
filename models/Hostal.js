@@ -57,5 +57,13 @@ class Hostal {
         this.hostals.splice(index,1);
         return {};
     }
+
+    findAllByCity(city){
+        var hostalesInCity =[];
+        for(var hostal of this.hostals){
+            if(hostal.ciudad == city){hostalesInCity.push(hostal);}
+        }
+        return hostalesInCity;
+    }
 }
 export default new Hostal();

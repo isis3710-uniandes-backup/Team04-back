@@ -83,6 +83,7 @@ app.get('/hostales', Hostal.getAll);
 app.get('/hostales/:id', Hostal.getOne);
 app.put('/hostales/:id', Hostal.update);
 app.delete('/hostales/:id', Hostal.delete);
+app.get('/hostales/cities/:city',Hostal.getAllByCity);
 
 /*
 --------------------------------VIAJES--------------------------------------
