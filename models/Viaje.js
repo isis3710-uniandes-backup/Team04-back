@@ -8,12 +8,16 @@ class Viaje {
   
   create(data) {
     const newViaje = {
+      idUsuario: data.idUsuario,
       id: uuid.v4(),
       nombre: data.nombre || '',
       empresa: data.empresa || '',
-      location: data.Location || '',
       fechaInicio: data.fechaInicio || '',
-      fechaFin: data.fechaFin || ''
+      fechaFin: data.fechaFin || '',
+      origen: data.origen || '',
+      destino: data.destino || '',
+      subViajes: data.subViajes || '',
+      viajeAgendado: data.viajeAgendado || ''
     };
     this.viajes.push(newViaje);
     return newViaje
