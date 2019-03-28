@@ -1,0 +1,10 @@
+{ id: 'f71d9252-6fe4-45ec-a4d5-4f3cd2fd6c4c',
+  nombreEmpresa: 'empresa1',
+  rutas: [ 'autopista norte', 'autopista occidental' ],
+  origen: 'bogotá',
+  destino: 'medellín' }
+[ { id: 'f71d9252-6fe4-45ec-a4d5-4f3cd2fd6c4c',
+    nombreEmpresa: 'empresa1',
+    rutas: [ 'autopista norte', 'autopista occidental' ],
+    origen: 'bogotá',
+    destino: 'medellín' } ]
