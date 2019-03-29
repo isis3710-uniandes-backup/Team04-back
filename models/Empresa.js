@@ -12,8 +12,6 @@ class Empresa {
       nombre: data.nombre || '',
       dueño: data.dueño || '',
       descripcion: data.descripcion || '',
-      tipo: data.tipo || '',
-      hostales: data.hostales || '',
       serviciosT: data.serviciosT || '',
       serviciosM: data.serviciosM || '',
       serviciosA: data.serviciosA || '',
