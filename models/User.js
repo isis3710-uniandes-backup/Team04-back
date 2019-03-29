@@ -20,7 +20,8 @@ class User{
            apellidos: data.apellidos || ' ',
            nacionalidad: data.nacionalidad ||' ',
            correo: data.correo ||' ',
-           fechaNacimiento: data.fechaNacimiento ||' '
+           fechaNacimiento: data.fechaNacimiento ||' ',
+           tipo: data.tipo || ''
        };
 
        this.users.push(newUser);
