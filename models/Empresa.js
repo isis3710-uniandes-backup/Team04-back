@@ -10,6 +10,10 @@ class Empresa {
     const newEmpresa = {
       id: uuid.v4(),
       nombre: data.nombre || '',
+      dueño: data.dueño || '',
+      descripcion: data.descripcion || '',
+      tipo: data.tipo || '',
+      hostales: data.hostales || '',
       serviciosT: data.serviciosT || '',
       serviciosM: data.serviciosM || '',
       serviciosA: data.serviciosA || '',
@@ -17,6 +21,10 @@ class Empresa {
     };      
     this.empresas.push(newEmpresa);
     return newEmpresa
+  }
+
+  findByOwner(dueño){
+    return this.empresas.find(empresa => empresa.dueño === dueño);
   }
 
   findOne(id) {
