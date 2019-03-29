@@ -18,7 +18,9 @@ class Hostal {
             sitioWeb: data.sitioWeb || '',
             ciudad: data.ciudad || '',
             direccion: data.direccion || '',
-            puntuacion: data.puntuacion || ''
+            puntuacion: data.puntuacion || '',
+            imagenes: data.imagenes || ''
+
         };
         this.hostals.push(newHostal);
         return newHostal
@@ -43,6 +45,7 @@ class Hostal {
         this.hostals[index].sitioWeb = data['sitioWeb'] || hostal.sitioWeb;
         this.hostals[index].ciudad = data['ciudad'] || hostal.ciudad;
         this.hostals[index].direccion = data['direccion'] || hostal.direccion;
+        this.hostals[index].imagenes = data['imagenes'] || hostal.imagenes;
         if(data['puntuacion']){
             this.hostals[index].puntuacion = data['puntuacion'];
         }
@@ -56,6 +59,14 @@ class Hostal {
         const index = this.hostals.indexOf(hostal);
         this.hostals.splice(index,1);
         return {};
+    }
+
+    findAllByCity(city){
+        var hostalesInCity =[];
+        for(var hostal of this.hostals){
+            if(hostal.ciudad == city){hostalesInCity.push(hostal);}
+        }
+        return hostalesInCity;
     }
 }
 export default new Hostal();
