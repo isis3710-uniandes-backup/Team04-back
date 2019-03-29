@@ -171,3 +171,27 @@
     ciudad: 'Cartagena',
     direccion: 'Calle 1 #10-22',
     puntuacion: 5 } ]
+{ idHostal: 'da6112de-e5cf-4e37-88d5-9ad1600351fe',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5 }
+{ idHostal: 'e8e2ea49-a9b5-41e5-98e8-3092c4941d2e',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }

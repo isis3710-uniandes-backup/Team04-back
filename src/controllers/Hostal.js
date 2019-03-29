@@ -2,6 +2,8 @@ import HostalModel from '../../models/Hostal';
 import fs from 'fs';
 import util from 'util';
 
+//TODO Agregar atributo para los comentarios
+//TODO Agregar atributo para las fotos, tiene que ser los path a las imagenes
 const Hostal = {
 
   create(req, res) {
