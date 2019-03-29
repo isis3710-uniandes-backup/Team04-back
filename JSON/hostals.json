@@ -195,3 +195,169 @@
      '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
      '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
      '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ idHostal: '1503cd9d-6bcf-41e6-8bf3-cc7a4d9670be',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: 'd5922b9e-2345-4c48-9c49-81c273fbc2ed',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
