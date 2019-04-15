@@ -6,18 +6,23 @@ class Empresa {
     this.empresas = [];
   }
   
-
   create(data) {
     const newEmpresa = {
       id: uuid.v4(),
       nombre: data.nombre || '',
+      dueño: data.dueño || '',
+      descripcion: data.descripcion || '',
       serviciosT: data.serviciosT || '',
       serviciosM: data.serviciosM || '',
       serviciosA: data.serviciosA || '',
       viajes: data.viajes || ''
-    };
+    };      
     this.empresas.push(newEmpresa);
     return newEmpresa
+  }
+
+  findByOwner(dueño){
+    return this.empresas.find(empresa => empresa.dueño === dueño);
   }
 
   findOne(id) {

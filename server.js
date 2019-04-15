@@ -4,8 +4,11 @@ import User from './src/controllers/User';
 import Empresa from './src/controllers/Empresa';
 import ServicioT from './src/controllers/ServicioT';
 import ServicioA from './src/controllers/ServicioA';
+import ServicioM from './src/controllers/ServicioM';
 import Location from './src/controllers/Location';
-
+import Hostal from './src/controllers/Hostal';
+import Viaje from './src/controllers/Viaje';
+import Transportes from './src/controllers/Transportes';
 
 
 
@@ -63,10 +66,43 @@ app.get('/serviciosa/:id', ServicioA.getOne);
 app.put('/serviciosa/:id', ServicioA.update);
 app.delete('/serviciosa/:id', ServicioA.delete);
 
+/*
+--------------------------------SERVICIOS MARITIMOS--------------------------------------
+*/
+app.post('/serviciosm', ServicioM.create);
+app.get('/serviciosm', ServicioM.getAll);
+app.get('/serviciosm/:id', ServicioM.getOne);
+app.put('/serviciosm/:id', ServicioM.update);
+app.delete('/serviciosm/:id', ServicioM.delete);
+
+/*
+--------------------------------HOSTALES--------------------------------------
+*/
+app.post('/hostales', Hostal.create);
+app.get('/hostales', Hostal.getAll);
+app.get('/hostales/:id', Hostal.getOne);
+app.put('/hostales/:id', Hostal.update);
+app.delete('/hostales/:id', Hostal.delete);
+app.get('/hostales/cities/:city',Hostal.getAllByCity);
+
+/*
+--------------------------------VIAJES--------------------------------------
+*/
+app.post('/viajes', Viaje.create);
+app.get('/viajes', Viaje.getAll);
+app.get('/viajes/:id', Viaje.getOne);
+app.put('/viajes/:id', Viaje.update);
+app.delete('/viajes/:id', Viaje.delete);
+
+
+/*
+--------------------------------OBTENER TODOS LOS TRANSPORTES--------------------------------------
+*/
+app.get('/transportes',Transportes.getAll);
 
 app.get('/', (req, res) => {
   return res.status(200).send({'message': 'Viajes back Team-04'});
 })
 
-app.listen(3000)
-console.log('app running on port ', 3000);
+app.listen(3001)
+console.log('app running on port ', 3001);
