@@ -37,7 +37,7 @@ const User = {
    * @returns {object} user object
    */
     getOne(req, res) {
-        const user = UserModel.findOne(req.params.id);
+        const user = UserModel.findOne(req.params.idUsuario);
         if (!user) {
         return res.status(404).send({'message': 'user not found'});
         }
@@ -50,11 +50,11 @@ const User = {
    * @returns {object} updated user
    */
     update(req, res) {
-        const user = UserModel.findOne(req.params.id);
+        const user = UserModel.findOne(req.params.idUsuario);
         if (!user) {
             return res.status(404).send({'message': 'user not found'});
         }
-        const updatedUser = UserModel.update(req.params.id, req.body)
+        const updatedUser = UserModel.update(req.params.idUsuario, req.body)
         var toWrite = UserModel.getAll();
         fs.writeFile('./JSON/users.json',JSON.stringify(toWrite) + "\r\n",err=>{
             if(err){
@@ -70,11 +70,11 @@ const User = {
    * @returns {void} return statuc code 204 
    */
     delete(req, res) {
-        const user = UserModel.findOne(req.params.id);
+        const user = UserModel.findOne(req.params.idUsuario);
         if (!user) {
             return res.status(404).send({'message': 'user not found'});
         }
-        const deletedUser = UserModel.delete(req.params.id);
+        const deletedUser = UserModel.delete(req.params.idUsuario);
         var toWrite = UserModel.getAll();
         fs.writeFile('./JSON/users.json',JSON.stringify(toWrite) + "\r\n",err=>{
             if(err){
