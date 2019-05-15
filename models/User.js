@@ -13,7 +13,7 @@ class User{
     */
    create(data){
        const newUser = {
-           idUsuario: uuid.v4(),
+           idUsuario: data.idUsuario || uuid.v4(),
            usuario: data.username || ' ',
            contrasenia: data.password || ' ',
            nombres: data.nombres ||' ',

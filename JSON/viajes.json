@@ -16873,3 +16873,110 @@
     destino: 'Cartagena',
     subViajes: [ [Object], [Object] ],
     viajeAgendado: true } ]
+{ idUsuario: '33f2107b-2615-4bbf-88ba-6f78f0f9a3ae',
+  id: '2c5b4ed6-3bed-40aa-ae7d-0a9cfafbb614',
+  nombre: 'viaje1',
+  empresa: 'empresa1',
+  fechaInicio: '2019-04-23T04:04:20.607Z',
+  fechaFin: '2019-04-23T04:04:20.607Z',
+  origen: 'Bogotá',
+  destino: 'Cartagena',
+  subViajes:
+   [ { nombre: 'sub-viaje0',
+       empresa: 'empresa',
+       metodoDeViaje: 'Viaje Aire',
+       fechaInicio: '22-4-2019',
+       fechaFin: '22-4-2019',
+       origen: 'Bogotá',
+       destino: 'Cartagena' } ],
+  viajeAgendado: true }
+[ { idUsuario: '33f2107b-2615-4bbf-88ba-6f78f0f9a3ae',
+    id: '2c5b4ed6-3bed-40aa-ae7d-0a9cfafbb614',
+    nombre: 'viaje1',
+    empresa: 'empresa1',
+    fechaInicio: '2019-04-23T04:04:20.607Z',
+    fechaFin: '2019-04-23T04:04:20.607Z',
+    origen: 'Bogotá',
+    destino: 'Cartagena',
+    subViajes: [ [Object] ],
+    viajeAgendado: true } ]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+{ idUsuario: undefined,
+  id: '97a370d5-f74e-436f-8e60-274bfedceae9',
+  nombre: 'viaje1',
+  empresa: 'empresa1',
+  fechaInicio: '2019-05-15T18:01:34.645Z',
+  fechaFin: '2019-05-15T18:01:34.645Z',
+  origen: 'Bogotá',
+  destino: 'Cartagena',
+  subViajes:
+   [ { nombre: 'sub-viaje0',
+       empresa: 'empresa',
+       metodoDeViaje: 'Viaje Aire',
+       fechaInicio: '15-5-2019',
+       fechaFin: '15-5-2019',
+       origen: 'Bogotá',
+       destino: 'Cartagena' } ],
+  viajeAgendado: true }
+{ idUsuario: undefined,
+  id: 'b23e5eae-5215-497d-b052-5f85a837a3cb',
+  nombre: 'viaje1',
+  empresa: 'empresa1',
+  fechaInicio: '2019-05-15T18:03:20.919Z',
+  fechaFin: '2019-05-15T18:03:20.920Z',
+  origen: 'Bogotá',
+  destino: 'Cartagena',
+  subViajes:
+   [ { nombre: 'sub-viaje0',
+       empresa: 'empresa',
+       metodoDeViaje: 'Viaje Aire',
+       fechaInicio: '15-5-2019',
+       fechaFin: '15-5-2019',
+       origen: 'Bogotá',
+       destino: 'Cartagena' } ],
+  viajeAgendado: true }
+[]
+{ idUsuario: undefined,
+  id: '8ace9729-a660-46cb-a741-d23874f8f9a1',
+  nombre: 'viaje1',
+  empresa: 'empresa1',
+  fechaInicio: '2019-05-15T18:12:29.519Z',
+  fechaFin: '2019-05-15T18:12:29.519Z',
+  origen: 'Bogotá',
+  destino: 'Cartagena',
+  subViajes:
+   [ { nombre: 'sub-viaje0',
+       empresa: 'empresa',
+       metodoDeViaje: 'Viaje Aire',
+       fechaInicio: '15-5-2019',
+       fechaFin: '15-5-2019',
+       origen: 'Bogotá',
+       destino: 'Cartagena' } ],
+  viajeAgendado: true }
+[ { idUsuario: undefined,
+    id: '8ace9729-a660-46cb-a741-d23874f8f9a1',
+    nombre: 'viaje1',
+    empresa: 'empresa1',
+    fechaInicio: '2019-05-15T18:12:29.519Z',
+    fechaFin: '2019-05-15T18:12:29.519Z',
+    origen: 'Bogotá',
+    destino: 'Cartagena',
+    subViajes: [ [Object] ],
+    viajeAgendado: true } ]
+[ { idUsuario: undefined,
+    id: '8ace9729-a660-46cb-a741-d23874f8f9a1',
+    nombre: 'viaje1',
+    empresa: 'empresa1',
+    fechaInicio: '2019-05-15T18:12:29.519Z',
+    fechaFin: '2019-05-15T18:12:29.519Z',
+    origen: 'Bogotá',
+    destino: 'Cartagena',
+    subViajes: [ [Object] ],
+    viajeAgendado: true } ]
