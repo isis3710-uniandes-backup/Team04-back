@@ -1,0 +1,7202 @@
+[
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233999254
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Cabo de la Vela",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Santa Marta",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ColViajes",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 1233999254
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColTures",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    },
+    {
+        "location": "Leticia",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 1233900572
+    },
+    {
+        "location": "Bucaramanga",
+        "tipoViaje": "Terrestre",
+        "empresa": "ColViajes",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Terrestre",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Bogota",
+        "tipoViaje": "Aereo",
+        "empresa": "ViajaMas",
+        "userID": 52394648
+    },
+    {
+        "location": "Cartagena",
+        "tipoViaje": "Aereo",
+        "empresa": "ColTures",
+        "userID": 1233900572
+    }
+]
