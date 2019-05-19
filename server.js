@@ -9,6 +9,7 @@ import Location from './src/controllers/Location';
 import Hostal from './src/controllers/Hostal';
 import Viaje from './src/controllers/Viaje';
 import Transportes from './src/controllers/Transportes';
+import Multitravel from './src/controllers/Multitravel';
 
 
 
@@ -99,6 +100,11 @@ app.delete('/viajes/:id', Viaje.delete);
 --------------------------------OBTENER TODOS LOS TRANSPORTES--------------------------------------
 */
 app.get('/transportes',Transportes.getAll);
+
+/*
+--------------------------------OBTENER DATOS VIAJES--------------------------------------
+*/
+app.get('/datosHistoricos', Multitravel.getData);
 
 app.get('/', (req, res) => {
   return res.status(200).send({'message': 'Viajes back Team-04'});

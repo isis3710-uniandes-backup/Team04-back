@@ -16969,7 +16969,7 @@
     origen: 'Bogotá',
     destino: 'Cartagena',
     subViajes: [ [Object] ],
-    viajeAgendado: true } ]
+    viajeAgendado: true } ]>
 [ { idUsuario: undefined,
     id: '8ace9729-a660-46cb-a741-d23874f8f9a1',
     nombre: 'viaje1',

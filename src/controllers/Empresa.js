@@ -77,6 +77,8 @@ const Empresa = {
     const ref = EmpresaModel.delete(req.params.id);
     return res.status(204).send(ref);
   }
+
+  
 }
 
 export default Empresa;

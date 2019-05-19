@@ -340,3 +340,866 @@
 { error: 'An Hostel with that name already exist' }
 { error: 'An Hostel with that name already exist' }
 { error: 'An Hostel with that name already exist' }
+{ idHostal: '49f052d6-fc0e-40b4-9e38-a3df077adba9',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: '1309e874-9120-458f-bac1-4a741d8c4b07',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: '972dc162-d617-44dd-9067-43cab66c9303',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: '522a06c5-65d7-4772-aad8-42ef8244836b',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: '43a81f92-7f59-4783-82e1-5e9df3526af0',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: '99384fef-ea7c-4e6e-95ae-be1f36887cdf',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: '2e1f1167-7ad1-45ca-8b77-912567b9ef0d',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: '6885b9a2-9303-4b7c-ab40-c177d81580ef',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: '9ac0134d-f985-4229-9182-f82d744f8014',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: '3da0446d-57a0-411f-a6f3-74a3784b19cc',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ idHostal: '99340941-f574-4e42-b501-9d70884fbec7',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ idHostal: 'ea88094e-2663-44cc-b104-9fefcebb6fc9',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: 'f640cedb-33b7-4fa1-a40b-6ef842cc63fe',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: 'fc24919f-6b24-48e4-ab16-90be3e224265',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: '6f7676df-9aab-4c38-81aa-65f62329ab97',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: '721e7990-b5ae-4233-83a5-34daffa01e16',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: '7b457533-f40b-48d2-9453-0458c3c8d347',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: 'f4e97074-4fd7-4a9c-b8ad-5a4fa41e5c36',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: '4060cf19-08c9-4fc4-90a9-f52a61f41a9e',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ error: 'An Hostel with that name already exist' }
+{ idHostal: 'b73e0e8d-b066-4b03-8ff0-b94977c58eaa',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
+{ idHostal: '0a6a7081-911a-47e2-a8e8-392bc80134e1',
+  nombre: 'Casa Hogar Hostales',
+  descripcion: 'El centro de cartagena bien pinche bello',
+  precio: '100000',
+  telefono: '3002221234',
+  sitioWeb: 'casahogar.com',
+  ciudad: 'Cartagena',
+  direccion: 'Calle 1 #10-22',
+  puntuacion: 5,
+  imagenes:
+   [ '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/40/10/4010756.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/90/11/9011312.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/59/75/5975238.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/41/05/4105462.jpeg',
+     '//imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_225,q_auto:eco,w_225/itemimages/83/79/8379904.jpeg' ] }
