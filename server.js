@@ -10,10 +10,12 @@ import Hostal from './src/controllers/Hostal';
 import Viaje from './src/controllers/Viaje';
 import Transportes from './src/controllers/Transportes';
 import Multitravel from './src/controllers/Multitravel';
+import cors from 'cors';
 
 
 
 const app = express()
+app.use(cors());
 
 app.use(express.json())
 
