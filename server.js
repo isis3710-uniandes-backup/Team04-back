@@ -110,5 +110,6 @@ app.get('/', (req, res) => {
   return res.status(200).send({'message': 'Viajes back Team-04'});
 })
 
-app.listen(3001)
-console.log('app running on port ', 3001);
+app.listen(process.env.PORT || 3001, function(){
+  console.log('Your node js server is running in port', 3001);
+});

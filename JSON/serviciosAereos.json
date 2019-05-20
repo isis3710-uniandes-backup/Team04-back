@@ -8,3 +8,8 @@
     rutas: [ 'autopista norte', 'autopista occidental' ],
     origen: 'bogotá',
     destino: 'medellín' } ]
+{ id: 'e1332430-ad90-4693-baf7-8bb655a6035e',
+  nombreEmpresa: 'empresa1',
+  rutas: [ 'autopista norte', 'autopista occidental' ],
+  origen: 'bogotá',
+  destino: 'medellín' }
