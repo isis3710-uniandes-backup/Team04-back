@@ -1,3 +1,3 @@
 // Procfile
 
-web: npm start
+web: babel-watch server.js
